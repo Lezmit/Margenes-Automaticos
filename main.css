@@ -1,0 +1,20 @@
+/* No puedo poner tildes por coonfiguracion de idioma de la computadora  */
+
+.hijo1{
+	border: 10px solid yellow;
+	margin: 10px;
+	width: 250px;
+	height: 250px;
+	text-align: center;
+
+}
+.hijo2{
+	border: 10px solid yellow;
+	margin:auto;
+	width: 250px;
+	height: 250px;
+	text-align: left;
+}
+.hijo{
+	padding: 30px;
+}
